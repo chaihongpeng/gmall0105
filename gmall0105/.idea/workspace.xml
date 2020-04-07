@@ -1,0 +1,1871 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55391ae1-aa1e-422b-86c1-be6cc054fa7c" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/demo/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-user/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-parent/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-api/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-common-util/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-service-util/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-web-util/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-user-service/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-user-web/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-user-serviec/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-manage-web/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-manage-service/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-item-web/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-redisson-test/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-service-item/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-item-service/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-cart-service/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-cart-web/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-passport-web/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-search-web/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-search-service/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="house@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="house@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-875478445">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="43" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.101" value="1" />
+          <entry key="project.open.time.104" value="1" />
+          <entry key="project.open.time.115" value="2" />
+          <entry key="project.open.time.1224" value="1" />
+          <entry key="project.open.time.123" value="1" />
+          <entry key="project.open.time.125" value="1" />
+          <entry key="project.open.time.126" value="1" />
+          <entry key="project.open.time.131" value="1" />
+          <entry key="project.open.time.133" value="1" />
+          <entry key="project.open.time.136" value="1" />
+          <entry key="project.open.time.139" value="1" />
+          <entry key="project.open.time.173" value="1" />
+          <entry key="project.open.time.179" value="1" />
+          <entry key="project.open.time.196" value="1" />
+          <entry key="project.open.time.2000" value="1" />
+          <entry key="project.open.time.216" value="1" />
+          <entry key="project.open.time.2209" value="1" />
+          <entry key="project.open.time.232" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.253" value="1" />
+          <entry key="project.open.time.279" value="1" />
+          <entry key="project.open.time.28" value="2" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.37" value="3" />
+          <entry key="project.open.time.3768" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.3996" value="1" />
+          <entry key="project.open.time.41" value="2" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.43" value="2" />
+          <entry key="project.open.time.45" value="2" />
+          <entry key="project.open.time.46" value="3" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.49" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.50" value="3" />
+          <entry key="project.open.time.52" value="2" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.535" value="1" />
+          <entry key="project.open.time.54" value="3" />
+          <entry key="project.open.time.55" value="2" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.57" value="2" />
+          <entry key="project.open.time.58" value="1" />
+          <entry key="project.open.time.59" value="2" />
+          <entry key="project.open.time.60" value="2" />
+          <entry key="project.open.time.61" value="3" />
+          <entry key="project.open.time.62" value="1" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.65" value="2" />
+          <entry key="project.open.time.66" value="4" />
+          <entry key="project.open.time.67" value="2" />
+          <entry key="project.open.time.68" value="1" />
+          <entry key="project.open.time.69" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.706" value="1" />
+          <entry key="project.open.time.71" value="1" />
+          <entry key="project.open.time.73" value="1" />
+          <entry key="project.open.time.74" value="2" />
+          <entry key="project.open.time.75" value="1" />
+          <entry key="project.open.time.77" value="2" />
+          <entry key="project.open.time.79" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.81" value="2" />
+          <entry key="project.open.time.85" value="1" />
+          <entry key="project.open.time.887" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.open.time.93" value="1" />
+          <entry key="project.open.time.96" value="1" />
+          <entry key="project.open.time.98" value="1" />
+          <entry key="project.opened" value="107" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="0-SNAPSHOT" value="4" />
+          <entry key="1-SNAPSHOT" value="5" />
+          <entry key="AbstractApplicationContext" value="1" />
+          <entry key="AbstractAutowireCapableBeanFactory" value="5" />
+          <entry key="AbstractBeanFactory" value="5" />
+          <entry key="AbstractQueuedSynchronizer" value="1" />
+          <entry key="AnnotationConfigApplicationContext" value="9" />
+          <entry key="ArrayList" value="5" />
+          <entry key="Component" value="1" />
+          <entry key="Data" value="1" />
+          <entry key="DefaultListableBeanFactory" value="7" />
+          <entry key="DefaultSingletonBeanRegistry" value="3" />
+          <entry key="DispatcherServlet" value="2" />
+          <entry key="FairSync" value="4" />
+          <entry key="GmallPassportWebApplication" value="1" />
+          <entry key="GmallSearchServiceApplicationTests" value="1" />
+          <entry key="HandlerInterceptorAdapter" value="2" />
+          <entry key="HashMap" value="7" />
+          <entry key="HashSet" value="1" />
+          <entry key="LinkedList" value="2" />
+          <entry key="List" value="2" />
+          <entry key="NonfairSync" value="1" />
+          <entry key="ReentrantLock" value="2" />
+          <entry key="SingleServerConfig" value="1" />
+          <entry key="SpringLocalModels/module=gmall-passport-web" value="1" />
+          <entry key="Stack" value="1" />
+          <entry key="StringBuilder" value="1" />
+          <entry key="Sync" value="1" />
+          <entry key="Test" value="2" />
+          <entry key="TransferQueue" value="1" />
+          <entry key="TreeMap" value="1" />
+          <entry key="class" value="41" />
+          <entry key="css" value="4" />
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="54" />
+          <entry key="iml" value="4" />
+          <entry key="java" value="945" />
+          <entry key="js" value="12" />
+          <entry key="md" value="23" />
+          <entry key="png" value="1" />
+          <entry key="pom" value="53" />
+          <entry key="properties" value="160" />
+          <entry key="sql" value="1" />
+          <entry key="ums_member" value="2" />
+          <entry key="xml" value="204" />
+          <entry key="xsd" value="1" />
+          <entry key="yml" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="41" />
+          <entry key="CSS" value="4" />
+          <entry key="Database Element" value="2" />
+          <entry key="HTML" value="54" />
+          <entry key="IDEA_MODULE" value="4" />
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="945" />
+          <entry key="JavaScript" value="12" />
+          <entry key="Markdown" value="23" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="160" />
+          <entry key="Scratch" value="1" />
+          <entry key="UML" value="81" />
+          <entry key="XML" value="258" />
+          <entry key="YAML" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="20" />
+          <entry key="html" value="1880" />
+          <entry key="java" value="40552" />
+          <entry key="js" value="77" />
+          <entry key="md" value="514" />
+          <entry key="properties" value="1923" />
+          <entry key="txt" value="15" />
+          <entry key="xml" value="4072" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="1878" />
+          <entry key="JAVA" value="40551" />
+          <entry key="JavaScript" value="77" />
+          <entry key="Markdown" value="514" />
+          <entry key="PLAIN_TEXT" value="35" />
+          <entry key="Properties" value="1923" />
+          <entry key="SQL" value="27" />
+          <entry key="SpEL" value="1" />
+          <entry key="ThymeleafExpressions" value="2" />
+          <entry key="XML" value="4045" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="gmall0105" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gmall-redisson-test/src/main/java/list/BST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmall-redisson-test/src/main/java/list/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="HTML File" />
+        <option value="myspring" />
+        <option value="AnnotationType" />
+        <option value="FxmlFile" />
+        <option value="mybatis" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lomb</find>
+      <find>test</find>
+      <find>ali</find>
+      <find>dubbo</find>
+      <find>jedi</find>
+      <find>cliLogin()</find>
+      <find>友情</find>
+      <find>123456</find>
+      <find>ValidateNum</find>
+      <find>put</find>
+      <find>d</find>
+      <find>doget</find>
+      <find>doser</find>
+      <find>remove</find>
+      <find>getBeanDefinition</find>
+      <find>setBeanClass</find>
+      <find>postPr</find>
+      <find>Override</find>
+      <find>postProcessProperties</find>
+      <find>sat</find>
+      <find>redis</find>
+      <find>System</find>
+      <find>beanu</find>
+      <find>valueId</find>
+      <find>class Node</find>
+      <find>doPost</find>
+      <find>toString</find>
+      <find>Node</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean/SearchService.java" />
+        <option value="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/service/SkuService.java" />
+        <option value="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall/manage/mapper/PmsSkuAttrValueMapper.java" />
+        <option value="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall/manage/service/serviceImpl/SkuServiceImpl.java" />
+        <option value="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean/PmsSkuInfo.java" />
+        <option value="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/service/SearchService.java" />
+        <option value="$PROJECT_DIR$/gmall-search-web/src/main/java/com/atguigu/gmall/search/GmallSearchWebApplication.java" />
+        <option value="$PROJECT_DIR$/gmall-search-service/src/main/java/com/atguigu/gmall/search/GmallSearchServiceApplication.java" />
+        <option value="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean/PmsSearchSkuInfo.java" />
+        <option value="$PROJECT_DIR$/gmall-search-service/src/test/java/com/atguigu/gmall/search/GmallSearchServiceApplicationTests.java" />
+        <option value="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/service/AttrService.java" />
+        <option value="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall/manage/mapper/PmsBaseAttrInfoMapper.java" />
+        <option value="$PROJECT_DIR$/gmall-manage-service/src/main/resources/mapper/PmsBaseAttrInfoMapper.xml" />
+        <option value="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean/PmsSkuAttrValue.java" />
+        <option value="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean/PmsSearchParam.java" />
+        <option value="$PROJECT_DIR$/gmall-search-service/src/main/java/com/atguigu/gmall/search/service/SearchServiceImpl.java" />
+        <option value="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall/manage/service/serviceImpl/AttrServiceImpl.java" />
+        <option value="$PROJECT_DIR$/gmall-search-web/src/test/java/com/atguigu/gmall/search/GmallSearchWebApplicationTests.java" />
+        <option value="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean/PmsSearchCrumb.java" />
+        <option value="$PROJECT_DIR$/gmall-search-web/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/gmall-manage-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/gmall-search-web/src/main/resources/templates/list.html" />
+        <option value="$PROJECT_DIR$/gmall-search-web/src/main/java/com/atguigu/gmall/search/controller/SearchController.java" />
+        <option value="$PROJECT_DIR$/gmall-redisson-test/src/main/java/com/datang/house/visual/HousevisualApplication.java" />
+        <option value="$PROJECT_DIR$/gmall-redisson-test/src/test/java/com/atguigu/gmall/test/GmallRedissonTestApplicationTests.java" />
+        <option value="$PROJECT_DIR$/gmall-web-util/src/main/java/com/atguigu/gmall/interceptors/AuthInterceptor.java" />
+        <option value="$PROJECT_DIR$/gmall-redisson-test/src/main/java/com/datang/house/visual/controller/FilterController.java" />
+        <option value="$PROJECT_DIR$/gmall-redisson-test/src/main/java/com/datang/house/visual/filter/MyFilter.java" />
+        <option value="$PROJECT_DIR$/gmall-redisson-test/src/main/java/test/TestInterface.java" />
+        <option value="$PROJECT_DIR$/gmall-redisson-test/src/main/java/test/Sort.java" />
+        <option value="$PROJECT_DIR$/gmall-redisson-test/src/main/java/test/BubboSort.java" />
+        <option value="$PROJECT_DIR$/gmall-redisson-test/src/main/java/test/QuickSort.java" />
+        <option value="$PROJECT_DIR$/gmall-redisson-test/src/main/java/test/InsertSort.java" />
+        <option value="$PROJECT_DIR$/gmall-redisson-test/src/main/java/test/GuiSort.java" />
+        <option value="$PROJECT_DIR$/gmall-redisson-test/src/main/java/test/JishuSort.java" />
+        <option value="$PROJECT_DIR$/gmall-redisson-test/src/main/java/test/jishuSort.java" />
+        <option value="$PROJECT_DIR$/gmall-redisson-test/src/main/java/test/jiShuSort.java" />
+        <option value="$PROJECT_DIR$/gmall-redisson-test/src/main/java/test/bucketSort.java" />
+        <option value="$PROJECT_DIR$/gmall-redisson-test/src/main/java/test/Test.java" />
+        <option value="$PROJECT_DIR$/gmall-redisson-test/src/main/java/test/SelectSort.java" />
+        <option value="$PROJECT_DIR$/gmall-redisson-test/src/main/java/test/BucketSort.java" />
+        <option value="$PROJECT_DIR$/gmall-redisson-test/src/main/java/sort/Test.java" />
+        <option value="$PROJECT_DIR$/gmall-manage-web/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/gmall-search-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/gmall-redisson-test/src/main/java/method_/Floyd.java" />
+        <option value="$PROJECT_DIR$/gmall-user-service/src/main/java/com/atguigu/gmall/GmallUserServiecApplication.java" />
+        <option value="$PROJECT_DIR$/gmall-redisson-test/src/main/java/sort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/gmall-redisson-test/src/main/java/stream/TestTream.java" />
+        <option value="$PROJECT_DIR$/gmall-redisson-test/src/main/java/string/Test.java" />
+        <option value="$PROJECT_DIR$/gmall-redisson-test/src/main/java/list/Test.java" />
+        <option value="$PROJECT_DIR$/gmall-redisson-test/src/main/java/list/BST.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\lib" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.0.5" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.0.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="gmall-passport-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="gmall-passport-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="gmall-passport-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="com.atguigu.gmall:gmall-web-util:1.0-SNAPSHOT" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="1550" />
+    <option name="height" value="835" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>ComparatorMethodParameterNotUsed</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showMembers ProjectPane="true" />
+      <hideEmptyPackages ProjectPane="true" />
+      <abbreviatePackageNames ProjectPane="true" />
+      <autoscrollToSource ProjectPane="false" />
+      <autoscrollFromSource ProjectPane="false" />
+      <sortByType ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gmall0105" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall0105" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall0105" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall0105" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-redisson-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall0105" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall0105" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-redisson-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall0105" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall0105" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-redisson-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall0105" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall0105" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-redisson-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall0105" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall0105" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-redisson-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall0105" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall0105" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-redisson-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall0105" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall0105" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-redisson-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="string" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="HashMap&#9;null&#9;null&#10;RedisAuto&#9;PSI&#9;JAVA://org.springframework.boot.autoconfigure.data.redis.RedisAutoConfiguration&#10;AbstractAutowireC&#9;FILE&#9;jar://D:/maven/lib/org/springframework/spring-beans/5.2.2.RELEASE/spring-beans-5.2.2.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java&#10;AutowiredAnnotation&#9;PSI&#9;JAVA://org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor&#10;CommonAnnotationBeanPostProcessor&#9;PSI&#9;JAVA://org.springframework.context.annotation.CommonAnnotationBeanPostProcessor" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585558023475" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="G:/springcloud-gmall/gmall0317" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\gmall-project\gmall0105\gmall-cart-web\src\main\resources\static" />
+      <recent name="G:\gmall-project\gmall0105\gmall-cart-web\src\main\resources\templates" />
+      <recent name="G:\gmall-project\gmall0105\gmall-manage-service\src\main\resources\mapper" />
+      <recent name="G:\gmall-project\gmall0105\gmall-redisson-test\src\main\resources\templates" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.atguigu.gmall" />
+      <recent name="com.atguigu.gmall.passport" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.atguigu.gmall.manage.mapper" />
+      <recent name="com.atguigu.gmall.service" />
+      <recent name="com.atguigu.gmall.bean" />
+      <recent name="com.datang.house.visual.test" />
+      <recent name="com.datang.house.visual.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\gmall-project\gmall0105\gmall-api\src\main\java\com\atguigu\gmall\bean" />
+      <recent name="G:\gmall-project\gmall0105\gmall-search-web\src\main\resources\templates" />
+      <recent name="G:\gmall-project\gmall0105\gmall-search-web\src\main\resources\static" />
+      <recent name="G:\gmall-project\gmall0105\gmall-user-web\src\main\resources\templates" />
+      <recent name="G:\gmall-project\gmall0105\gmall-common-util\src\main\java\com\atguigu\gmall\util" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test (2)">
+    <configuration name="Floyd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method_.Floyd" />
+      <module name="gmall-redisson-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TCPHttpClient" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.datang.house.visual.test.TCPHttpClient" />
+      <module name="gmall-redisson-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.datang.house.visual.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.Test" />
+      <module name="gmall-redisson-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.Test" />
+      <module name="gmall-redisson-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.Test" />
+      <module name="gmall-redisson-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.TestTream" />
+      <module name="gmall-redisson-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallCartServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-cart-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.cart.GmallCartServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallCartWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-cart-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.GmallCartWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallItemWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-item-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.item.GmallItemWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallManageServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-manage-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.manage.GmallManageServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallManageWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-manage-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.manage.GmallManageWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallPassportWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gmall-passport-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gmall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.GmallPassportWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallSearchServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-search-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.search.GmallSearchServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallSearchWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-search-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.search.GmallSearchWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallUserServiecApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.GmallUserServiecApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallUserWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-user-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.GmallUserWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HousevisualApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-redisson-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.datang.house.visual.HousevisualApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.GmallPassportWebApplication" />
+      <item itemvalue="Application.TCPHttpClient" />
+      <item itemvalue="Spring Boot.GmallManageWebApplication" />
+      <item itemvalue="Spring Boot.GmallManageServiceApplication" />
+      <item itemvalue="Spring Boot.GmallItemWebApplication" />
+      <item itemvalue="Spring Boot.GmallUserServiecApplication" />
+      <item itemvalue="Spring Boot.GmallUserWebApplication" />
+      <item itemvalue="Spring Boot.GmallCartServiceApplication" />
+      <item itemvalue="Spring Boot.GmallCartWebApplication" />
+      <item itemvalue="Spring Boot.HousevisualApplication" />
+      <item itemvalue="Spring Boot.GmallSearchWebApplication" />
+      <item itemvalue="Spring Boot.GmallSearchServiceApplication" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.Floyd" />
+      <item itemvalue="Application.Test (2)" />
+      <item itemvalue="Application.TestTream" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.TestTream" />
+        <item itemvalue="Application.Floyd" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER,SHOW_FIELDS,ALPHA_COMPARATOR,SHOW_INTERFACES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55391ae1-aa1e-422b-86c1-be6cc054fa7c" name="Default Changelist" comment="" />
+      <created>1578055441785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578055441785</updated>
+      <workItem from="1578055446244" duration="10738000" />
+      <workItem from="1578108671657" duration="3000" />
+      <workItem from="1578109988173" duration="13205000" />
+      <workItem from="1578284817860" duration="26803000" />
+      <workItem from="1578363030489" duration="184000" />
+      <workItem from="1578363245070" duration="39000" />
+      <workItem from="1578363382514" duration="230000" />
+      <workItem from="1578363661629" duration="316000" />
+      <workItem from="1578364002199" duration="8878000" />
+      <workItem from="1578384400818" duration="17870000" />
+      <workItem from="1578452912729" duration="9592000" />
+      <workItem from="1578469634151" duration="4472000" />
+      <workItem from="1578542644315" duration="6659000" />
+      <workItem from="1578560684846" duration="4518000" />
+      <workItem from="1578623262433" duration="2824000" />
+      <workItem from="1578719324023" duration="7715000" />
+      <workItem from="1578799027163" duration="4270000" />
+      <workItem from="1578890226193" duration="4604000" />
+      <workItem from="1578974215328" duration="5035000" />
+      <workItem from="1578999202451" duration="12146000" />
+      <workItem from="1579054760666" duration="4867000" />
+      <workItem from="1579080274072" duration="16845000" />
+      <workItem from="1579145788682" duration="8092000" />
+      <workItem from="1579240717693" duration="10386000" />
+      <workItem from="1579258024190" duration="10160000" />
+      <workItem from="1579322560632" duration="2125000" />
+      <workItem from="1579347470246" duration="4614000" />
+      <workItem from="1579397830412" duration="15857000" />
+      <workItem from="1579489438083" duration="12258000" />
+      <workItem from="1579581292959" duration="2397000" />
+      <workItem from="1579664552742" duration="5705000" />
+      <workItem from="1579776403285" duration="3688000" />
+      <workItem from="1580017102903" duration="9325000" />
+      <workItem from="1580093501933" duration="11513000" />
+      <workItem from="1580178535455" duration="660000" />
+      <workItem from="1580265941220" duration="13350000" />
+      <workItem from="1580350994739" duration="3394000" />
+      <workItem from="1580438739539" duration="7136000" />
+      <workItem from="1580524869678" duration="6859000" />
+      <workItem from="1580616942737" duration="3083000" />
+      <workItem from="1580695673238" duration="8296000" />
+      <workItem from="1580781621350" duration="1410000" />
+      <workItem from="1580868498885" duration="16657000" />
+      <workItem from="1580957374115" duration="3555000" />
+      <workItem from="1581043658589" duration="13114000" />
+      <workItem from="1581130278553" duration="21079000" />
+      <workItem from="1581215514242" duration="26443000" />
+      <workItem from="1581304700548" duration="2106000" />
+      <workItem from="1581389324558" duration="10096000" />
+      <workItem from="1581474693977" duration="2430000" />
+      <workItem from="1581562519833" duration="10609000" />
+      <workItem from="1581645905456" duration="1832000" />
+      <workItem from="1581679293235" duration="2106000" />
+      <workItem from="1581682093994" duration="628000" />
+      <workItem from="1581736672724" duration="3308000" />
+      <workItem from="1581828352088" duration="8617000" />
+      <workItem from="1581905535063" duration="22251000" />
+      <workItem from="1581992477669" duration="26056000" />
+      <workItem from="1582081538782" duration="22284000" />
+      <workItem from="1582164500788" duration="14128000" />
+      <workItem from="1582252821619" duration="28325000" />
+      <workItem from="1582338664872" duration="26511000" />
+      <workItem from="1582425294060" duration="620000" />
+      <workItem from="1582551326950" duration="415000" />
+      <workItem from="1582608874009" duration="7420000" />
+      <workItem from="1582685062535" duration="16423000" />
+      <workItem from="1582775798339" duration="6649000" />
+      <workItem from="1582864422318" duration="14859000" />
+      <workItem from="1582940090138" duration="23242000" />
+      <workItem from="1583035813551" duration="15240000" />
+      <workItem from="1583114501127" duration="1195000" />
+      <workItem from="1583310046179" duration="6845000" />
+      <workItem from="1583383450624" duration="559000" />
+      <workItem from="1583385391539" duration="595000" />
+      <workItem from="1583479005476" duration="1344000" />
+      <workItem from="1583567290766" duration="1196000" />
+      <workItem from="1583650946540" duration="647000" />
+      <workItem from="1583744139275" duration="4122000" />
+      <workItem from="1583814653598" duration="12273000" />
+      <workItem from="1583908805121" duration="7988000" />
+      <workItem from="1583980333803" duration="12255000" />
+      <workItem from="1584064202293" duration="8645000" />
+      <workItem from="1584145183821" duration="7024000" />
+      <workItem from="1584233138253" duration="8855000" />
+      <workItem from="1584323178460" duration="1085000" />
+      <workItem from="1584408920700" duration="3586000" />
+      <workItem from="1584430628857" duration="5997000" />
+      <workItem from="1584500635923" duration="5702000" />
+      <workItem from="1584582336005" duration="1614000" />
+      <workItem from="1584674288482" duration="2429000" />
+      <workItem from="1584865639983" duration="1944000" />
+      <workItem from="1584931191172" duration="2193000" />
+      <workItem from="1585015635481" duration="1185000" />
+      <workItem from="1585224463741" duration="1881000" />
+      <workItem from="1585277670899" duration="1192000" />
+      <workItem from="1585364268145" duration="2931000" />
+      <workItem from="1585450912496" duration="6301000" />
+      <workItem from="1585539650608" duration="7376000" />
+      <workItem from="1585629028675" duration="598000" />
+      <workItem from="1585714598365" duration="575000" />
+      <workItem from="1585800864007" duration="585000" />
+      <workItem from="1585887361523" duration="1194000" />
+      <workItem from="1585972434055" duration="589000" />
+      <workItem from="1586144987256" duration="592000" />
+      <workItem from="1586233204936" duration="915000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="GmallSearchServiceApplicationTests_contextLoads - 2020.02.28 at 14h 28m 31s.xml">
+      <configuration name="GmallSearchServiceApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallSearchServiceApplicationTests_contextLoads - 2020.02.28 at 14h 29m 40s.xml">
+      <configuration name="GmallSearchServiceApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallSearchServiceApplicationTests - 2020.02.28 at 14h 35m 12s.xml">
+      <configuration name="GmallSearchServiceApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallSearchServiceApplicationTests_contextLoads - 2020.02.28 at 14h 37m 15s.xml">
+      <configuration name="GmallSearchServiceApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallSearchServiceApplicationTests_contextLoads - 2020.02.28 at 15h 04m 39s.xml">
+      <configuration name="GmallSearchServiceApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallSearchServiceApplicationTests_contextLoads - 2020.02.28 at 15h 12m 27s.xml">
+      <configuration name="GmallSearchServiceApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallSearchServiceApplicationTests_contextLoads - 2020.02.28 at 15h 13m 44s.xml">
+      <configuration name="GmallSearchServiceApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallSearchServiceApplicationTests_contextLoads - 2020.02.28 at 16h 15m 51s.xml">
+      <configuration name="GmallSearchServiceApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallSearchServiceApplicationTests_contextLoads - 2020.02.28 at 16h 16m 14s.xml">
+      <configuration name="GmallSearchServiceApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallSearchServiceApplicationTests_contextLoads - 2020.02.28 at 16h 16m 58s.xml">
+      <configuration name="GmallSearchServiceApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="773131000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49452955" weight="0.18498659" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.50547045" side_tool="true" weight="0.23190348" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Web" order="6" sideWeight="0.50547045" side_tool="true" weight="0.23190348" />
+      <window_info x="522" y="70" width="492" height="683" id="ZooKeeper" order="7" weight="0.3297587" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329429" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.3338214" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40556368" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329429" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.329429" />
+      <window_info anchor="bottom" id="Database Console" order="8" weight="0.329429" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.329429" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.33089313" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.329429" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.329429" />
+      <window_info anchor="bottom" id="Database Changes" order="13" weight="0.329429" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3297587" />
+      <window_info active="true" anchor="right" id="Structure" order="10" sideWeight="0.5036603" side_tool="true" visible="true" weight="0.07975871" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22184986" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329429" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33674964" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39970717" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Database Console" order="8" weight="0.329429" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.329429" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.329429" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/gmall-redisson-test/src/main/java/com/datang/house/visual/controller/HashMap.java</url>
+          <line>2390</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="ZooKeeperConfig">
+    <option name="host" value="192.168.227.129" />
+    <option name="port" value="2181" />
+    <option name="charset" value="UTF-8" />
+    <option name="whitePaths" value="" />
+    <option name="enabled" value="true" />
+    <option name="tooltip" value="true" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>sharedInstance.equals(&quot;eee&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.1.RELEASE/spring-webmvc-5.2.1.RELEASE-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="391" column="39" selection-start-line="391" selection-start-column="39" selection-end-line="391" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.1.RELEASE/spring-webmvc-5.2.1.RELEASE-sources.jar!/org/springframework/web/servlet/HandlerMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="147" column="26" selection-start-line="147" selection-start-column="26" selection-end-line="147" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.1.RELEASE/spring-webmvc-5.2.1.RELEASE-sources.jar!/org/springframework/web/servlet/FrameworkServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="1177" column="33" lean-forward="true" selection-start-line="1177" selection-start-column="33" selection-end-line="1177" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.1.RELEASE/spring-webmvc-5.2.1.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="909" column="19" selection-start-line="909" selection-start-column="19" selection-end-line="909" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-web-util/src/main/java/com/atguigu/gmall/interceptors/AuthInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.springframework.web.servlet.DispatcherServlet">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.springframework.web.servlet.DispatcherServlet</OriginalElement>
+          <nodes>
+            <node x="" y="">javax.servlet.ServletConfig</node>
+            <node x="" y="">javax.servlet.http.HttpServlet</node>
+            <node x="" y="">org.springframework.web.servlet.DispatcherServlet</node>
+            <node x="" y="">org.springframework.web.servlet.HttpServletBean</node>
+            <node x="" y="">org.springframework.context.EnvironmentAware</node>
+            <node x="" y="">org.springframework.core.env.EnvironmentCapable</node>
+            <node x="" y="">javax.servlet.Servlet</node>
+            <node x="" y="">javax.servlet.GenericServlet</node>
+            <node x="" y="">org.springframework.beans.factory.Aware</node>
+            <node x="" y="">org.springframework.web.servlet.FrameworkServlet</node>
+            <node x="" y="">org.springframework.context.ApplicationContextAware</node>
+            <node x="" y="">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="237.0" y="218.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-web-util/src/main/java/com/atguigu/gmall/config/WebMvcConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-redisson-test/src/main/java/method_/Floyd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-search-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-search-service/src/main/java/com/atguigu/gmall/search/GmallSearchServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-user-web/src/main/java/com/atguigu/gmall/GmallUserWebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-user-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-common-util/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean/OmsCartItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean/PmsBaseAttrInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-user-service/src/main/java/com/atguigu/gmall/user/service/serviceImpl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-user-service/src/main/java/com/atguigu/gmall/user/mapper/UmsMemberReceiveAddressMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.2.1.RELEASE/spring-data-redis-2.2.1.RELEASE-sources.jar!/org/springframework/data/redis/core/RedisTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="88" column="13" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-user-service/src/main/java/com/atguigu/gmall/user/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-service-util/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-user-service/src/main/java/com/atguigu/gmall/GmallUserServiecApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/persistence/persistence-api/1.0/persistence-api-1.0.jar!/javax/persistence/Id.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean/PmsBaseCatalog3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="38" column="50" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-search-web/src/main/java/com/atguigu/gmall/search/controller/SearchController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="308">
+            <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-redisson-test/src/main/java/sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4598">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="2114" selection-start-line="2114" selection-end-line="2115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7590">
+          <caret line="391" column="27" selection-start-line="391" selection-start-column="27" selection-end-line="391" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/function/Predicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.List">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.List</OriginalElement>
+          <nodes>
+            <node x="19.5" y="162.0">java.util.List</node>
+            <node x="0.0" y="81.0">java.util.Collection</node>
+            <node x="7.5" y="0.0">java.lang.Iterable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.List" target="java.util.Collection">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.util.Collection" target="java.lang.Iterable">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-299.0" y="23.0" />
+          <SelectedNodes>
+            <node>java.util.List</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="543" column="6" selection-start-line="543" selection-start-column="6" selection-end-line="543" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.LinkedList">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.LinkedList</OriginalElement>
+          <nodes>
+            <node x="" y="">java.util.AbstractCollection</node>
+            <node x="" y="">java.util.List</node>
+            <node x="" y="">java.lang.Cloneable</node>
+            <node x="" y="">java.util.Collection</node>
+            <node x="" y="">java.util.AbstractList</node>
+            <node x="" y="">java.util.Queue</node>
+            <node x="" y="">java.util.Deque</node>
+            <node x="" y="">java.util.LinkedList</node>
+            <node x="" y="">java.util.AbstractSequentialList</node>
+            <node x="" y="">java.lang.Iterable</node>
+            <node x="" y="">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="270.0" y="104.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-redisson-test/src/main/java/stream/TestTream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-redisson-test/src/main/java/string/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="146" column="11" selection-start-line="146" selection-start-column="11" selection-end-line="146" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/list.Test">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>list.Test</OriginalElement>
+          <nodes>
+            <node x="" y="">list.Test</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="36.0" y="16.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.TreeMap">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.TreeMap</OriginalElement>
+          <nodes>
+            <node x="" y="">java.util.AbstractMap</node>
+            <node x="" y="">java.util.TreeMap</node>
+            <node x="" y="">java.util.Map</node>
+            <node x="" y="">java.util.NavigableMap</node>
+            <node x="" y="">java.util.SortedMap</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="228.0" y="137.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/io/Serializable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="168" column="17" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.HashMap">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.HashMap</OriginalElement>
+          <nodes>
+            <node x="259.0" y="81.0">java.util.AbstractMap</node>
+            <node x="133.00000000000003" y="81.0">java.lang.Cloneable</node>
+            <node x="322.0416666666667" y="0.0">java.util.Map</node>
+            <node x="202.00000000000003" y="162.0">java.util.HashMap</node>
+            <node x="0.0" y="81.0">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.HashMap" target="java.util.Map">
+              <point x="38.625" y="-15.5" />
+              <point x="292.125" y="142.0" />
+              <point x="393.5" y="142.0" />
+              <point x="393.5" y="56.0" />
+              <point x="377.5416666666667" y="56.0" />
+              <point x="18.5" y="15.5" />
+            </edge>
+            <edge source="java.util.HashMap" target="java.lang.Cloneable">
+              <point x="-12.875" y="-15.5" />
+              <point x="240.62500000000003" y="132.0" />
+              <point x="186.00000000000003" y="132.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.util.HashMap" target="java.util.AbstractMap">
+              <point x="12.875" y="-15.5" />
+              <point x="266.375" y="132.0" />
+              <point x="321.0" y="132.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.util.AbstractMap" target="java.util.Map">
+              <point x="0.0" y="-15.5" />
+              <point x="321.0" y="56.0" />
+              <point x="340.5416666666667" y="56.0" />
+              <point x="-18.5" y="15.5" />
+            </edge>
+            <edge source="java.util.HashMap" target="java.io.Serializable">
+              <point x="-38.625" y="-15.5" />
+              <point x="214.87500000000003" y="142.0" />
+              <point x="56.5" y="142.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-169.0" y="23.0" />
+          <SelectedNodes>
+            <node>java.util.Map</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="374" column="14" selection-start-line="374" selection-start-column="14" selection-end-line="374" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="137" column="13" selection-start-line="137" selection-start-column="13" selection-end-line="137" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="969" column="25" selection-start-line="969" selection-start-column="25" selection-end-line="969" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.Stack">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.Stack</OriginalElement>
+          <nodes>
+            <node x="243.875" y="81.0">java.util.Collection</node>
+            <node x="455.25" y="273.0">java.util.AbstractList</node>
+            <node x="29.5" y="182.0">java.util.concurrent.BlockingQueue</node>
+            <node x="0.0" y="754.0">java.util.HashMap</node>
+            <node x="194.625" y="673.0">java.util.NavigableMap</node>
+            <node x="0.0" y="273.0">java.util.concurrent.LinkedBlockingQueue</node>
+            <node x="194.0" y="273.0">java.util.TreeSet</node>
+            <node x="395.75" y="435.0">java.util.Stack</node>
+            <node x="251.375" y="0.0">java.lang.Iterable</node>
+            <node x="498.75" y="354.0">java.util.ArrayList</node>
+            <node x="307.0" y="273.0">java.util.HashSet</node>
+            <node x="50.625" y="673.0">java.util.AbstractMap</node>
+            <node x="245.0246598639456" y="182.0">java.util.AbstractCollection</node>
+            <node x="528.875" y="182.0">java.util.List</node>
+            <node x="391.75" y="354.0">java.util.Vector</node>
+            <node x="148.97222222222223" y="754.0">java.util.TreeMap</node>
+            <node x="75.625" y="511.0">java.util.Map</node>
+            <node x="371.625" y="511.0">org.apache.lucene.codecs.compressing.LZ4.HashTable</node>
+            <node x="617.75" y="354.0">java.util.LinkedList</node>
+            <node x="203.625" y="592.0">java.util.SortedMap</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.HashMap" target="java.util.Map">
+              <point x="-25.75" y="-15.5" />
+              <point x="25.75" y="729.0" />
+              <point x="30.75" y="729.0" />
+              <point x="30.75" y="567.0" />
+              <point x="87.95833333333334" y="567.0" />
+              <point x="-24.666666666666657" y="15.5" />
+            </edge>
+            <edge source="java.util.SortedMap" target="java.util.Map">
+              <point x="0.0" y="-15.5" />
+              <point x="260.625" y="567.0" />
+              <point x="137.29166666666669" y="567.0" />
+              <point x="24.666666666666686" y="15.5" />
+            </edge>
+            <edge source="java.util.NavigableMap" target="java.util.SortedMap">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.util.concurrent.LinkedBlockingQueue" target="java.util.AbstractCollection">
+              <point x="58.0" y="-15.5" />
+              <point x="145.0" y="243.0" />
+              <point x="264.5246598639456" y="243.0" />
+              <point x="-58.5" y="15.5" />
+            </edge>
+            <edge source="java.util.List" target="java.util.Collection">
+              <point x="0.0" y="-15.5" />
+              <point x="562.875" y="142.0" />
+              <point x="327.94642857142856" y="142.0" />
+              <point x="30.571428571428555" y="15.5" />
+            </edge>
+            <edge source="java.util.AbstractList" target="java.util.List">
+              <point x="29.25" y="-15.5" />
+              <point x="543.0" y="253.0" />
+              <point x="554.375" y="253.0" />
+              <point x="-8.5" y="15.5" />
+            </edge>
+            <edge source="java.util.Collection" target="java.lang.Iterable">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.util.TreeSet" target="java.util.Collection">
+              <point x="-23.25" y="-15.5" />
+              <point x="217.25" y="233.0" />
+              <point x="206.0" y="233.0" />
+              <point x="206.0" y="162.0" />
+              <point x="282.0892857142857" y="162.0" />
+              <point x="-15.285714285714278" y="15.5" />
+            </edge>
+            <edge source="java.util.TreeSet" target="java.util.AbstractCollection">
+              <point x="23.25" y="-15.5" />
+              <point x="263.75" y="253.0" />
+              <point x="303.5246598639456" y="253.0" />
+              <point x="-19.5" y="15.5" />
+            </edge>
+            <edge source="java.util.AbstractCollection" target="java.util.Collection">
+              <point x="0.0" y="-15.5" />
+              <point x="323.0246598639456" y="162.0" />
+              <point x="297.375" y="162.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.util.concurrent.LinkedBlockingQueue" target="java.util.Collection">
+              <point x="-58.0" y="-15.5" />
+              <point x="29.0" y="253.0" />
+              <point x="19.0" y="253.0" />
+              <point x="19.0" y="142.0" />
+              <point x="251.5178571428571" y="142.0" />
+              <point x="-45.85714285714289" y="15.5" />
+            </edge>
+            <edge source="java.util.Vector" target="java.util.AbstractList">
+              <point x="21.75" y="-15.5" />
+              <point x="457.0" y="334.0" />
+              <point x="474.75" y="334.0" />
+              <point x="-39.0" y="15.5" />
+            </edge>
+            <edge source="java.util.LinkedList" target="java.util.AbstractList">
+              <point x="-35.33333333333337" y="-15.5" />
+              <point x="635.4166666666666" y="324.0" />
+              <point x="552.75" y="324.0" />
+              <point x="39.0" y="15.5" />
+            </edge>
+            <edge source="java.util.Vector" target="java.util.List">
+              <point x="-21.75" y="-15.5" />
+              <point x="413.5" y="253.0" />
+              <point x="537.375" y="253.0" />
+              <point x="-25.5" y="15.5" />
+            </edge>
+            <edge source="java.util.HashMap" target="java.util.AbstractMap">
+              <point x="25.75" y="-15.5" />
+              <point x="77.25" y="729.0" />
+              <point x="81.625" y="729.0" />
+              <point x="-31.0" y="15.5" />
+            </edge>
+            <edge source="java.util.Stack" target="java.util.Vector">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.util.LinkedList" target="java.util.List">
+              <point x="0.0" y="-15.5" />
+              <point x="670.75" y="334.0" />
+              <point x="682.9166666666667" y="334.0" />
+              <point x="682.9166666666667" y="253.0" />
+              <point x="588.375" y="253.0" />
+              <point x="25.5" y="15.5" />
+            </edge>
+            <edge source="java.util.AbstractList" target="java.util.AbstractCollection">
+              <point x="-29.25" y="-15.5" />
+              <point x="484.5" y="233.0" />
+              <point x="381.5246598639456" y="233.0" />
+              <point x="58.5" y="15.5" />
+            </edge>
+            <edge source="java.util.TreeMap" target="java.util.AbstractMap">
+              <point x="-25.0" y="-15.5" />
+              <point x="173.97222222222223" y="729.0" />
+              <point x="143.625" y="729.0" />
+              <point x="31.0" y="15.5" />
+            </edge>
+            <edge source="java.util.HashSet" target="java.util.Collection">
+              <point x="24.0" y="-15.5" />
+              <point x="379.0" y="243.0" />
+              <point x="411.5246598639456" y="243.0" />
+              <point x="411.5246598639456" y="152.0" />
+              <point x="312.6607142857143" y="152.0" />
+              <point x="15.285714285714278" y="15.5" />
+            </edge>
+            <edge source="java.util.AbstractMap" target="java.util.Map">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.util.concurrent.BlockingQueue" target="java.util.Collection">
+              <point x="0.0" y="-15.5" />
+              <point x="97.0" y="152.0" />
+              <point x="266.80357142857144" y="152.0" />
+              <point x="-30.571428571428555" y="15.5" />
+            </edge>
+            <edge source="java.util.concurrent.LinkedBlockingQueue" target="java.util.concurrent.BlockingQueue">
+              <point x="0.0" y="-15.5" />
+              <point x="87.0" y="253.0" />
+              <point x="97.0" y="253.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.util.HashSet" target="java.util.AbstractCollection">
+              <point x="-24.0" y="-15.5" />
+              <point x="331.0" y="253.0" />
+              <point x="342.5246598639456" y="253.0" />
+              <point x="19.5" y="15.5" />
+            </edge>
+            <edge source="java.util.TreeMap" target="java.util.NavigableMap">
+              <point x="25.0" y="-15.5" />
+              <point x="223.97222222222223" y="729.0" />
+              <point x="260.625" y="729.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.util.LinkedList" target="java.util.Collection">
+              <point x="35.33333333333337" y="-15.5" />
+              <point x="706.0833333333334" y="334.0" />
+              <point x="693.9166666666667" y="334.0" />
+              <point x="693.9166666666667" y="132.0" />
+              <point x="343.2321428571429" y="132.0" />
+              <point x="45.85714285714289" y="15.5" />
+            </edge>
+            <edge source="java.util.ArrayList" target="java.util.List">
+              <point x="24.75" y="-15.5" />
+              <point x="573.0" y="334.0" />
+              <point x="582.75" y="334.0" />
+              <point x="582.75" y="253.0" />
+              <point x="571.375" y="253.0" />
+              <point x="8.5" y="15.5" />
+            </edge>
+            <edge source="java.util.ArrayList" target="java.util.AbstractList">
+              <point x="-24.75" y="-15.5" />
+              <point x="523.5" y="334.0" />
+              <point x="513.75" y="334.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="249.0" y="491.0" />
+          <SelectedNodes>
+            <node>java.util.NavigableMap</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-redisson-test/src/main/java/list/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-redisson-test/src/main/java/list/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>gmall-user-web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$/demo" />
+    <option value="-U idea:idea" />
+  </component>
+</project>
